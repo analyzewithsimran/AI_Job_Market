@@ -1,4 +1,3 @@
-Seaborn
 📌 Project Overview
 
 This project analyzes the AI Job Market using real-world structured data.
