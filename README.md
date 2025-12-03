@@ -127,3 +127,9 @@ Build a job recommendation system (based on text similarity)
 Build an ML model to predict salary ranges
 
 Create an interactive dashboard using Power BI or Plotly
+## 📊 Industry-wise Job Distribution
+![Industry Chart](industry_chart.png)
+
+## 💰 Salary Score Distribution
+![Salary Chart](salary_hist.png)
+
